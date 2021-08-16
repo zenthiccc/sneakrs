@@ -10,7 +10,7 @@
 
 ## Description
 
-Sneakrs is not just any typical e-commerce website. It is a live marketplace for buying limited edition sneakers
+Sneakrs is not just any typical e-commerce website. It is a mock-up market website for buying limited edition sneakers
 
 ## Techstack used:
 
