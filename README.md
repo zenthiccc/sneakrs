@@ -1,6 +1,13 @@
+
+## sneakrs
+<p align="center">
+  <img src="https://img.shields.io/badge/MAINTAINED-YES-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LICENSE-MIT-blue?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/zenthiccc/sneakrs?style=for-the-badge">
+</p>
+
 ![sneakrs](demo/demo.gif)
 
-## Sneakrs
 
 ##### Demo: http://sneakrsapp.herokuapp.com
 
