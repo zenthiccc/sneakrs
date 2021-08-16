@@ -28,3 +28,36 @@ Sneakrs is not just any typical e-commerce website. It is a mock-up market websi
 > - Redux
 > - Bootstrap 4
 > - bcrypt & JWT
+
+## Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/zenthiccc/sneakrs.git
+```
+```bash
+# Install dependencies for server
+npm install
+
+# Install dependencies for client
+cd client/ && npm install
+```
+```bash
+# Environment variables configuration - `.env` file
+
+# - Connect MongoDB by inserting MongoDB URL
+# - Insert JWT Secret
+# - Insert Paypal Client ID
+```
+```bash
+
+# Run the client & server with concurrently
+npm run dev
+
+# Run the server only
+npm run server
+
+# Run the client only
+npm run client
+
+```
